@@ -56,7 +56,7 @@ I enjoy building functional, scalable applications from back to front — and ye
 
 ### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/brasildefato_brasildefato-activity-7349055609293410304-8GAt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwPf_MBJeq_i-qtsSCIir_SoUDgexPHyH0)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/Aldf76)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aldf76)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521985644855?text=Olá%20Felipe%2C%20vi%20seu%20GitHub%20e%20gostaria%20de%20conversar.)
 
