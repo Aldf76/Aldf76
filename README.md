@@ -40,10 +40,10 @@ I enjoy building functional, scalable applications from back to front — and ye
 
 ### 📚 I'm learning
 
-- 🧠 **Data Science & AI** fundamentals  
-- 🤖 **Inteligência Artificial aplicada ao Python**  
-- 📊 **Análise de Dados com SAS**  
-- 🛠️ **Ferramentas de DevOps como Docker**
+- 🧠 **Data Science & AI fundamentals** (Fundamentos de Ciência de Dados e Inteligência Artificial)
+- 🤖 **Artificial Intelligence applied to Python** (Inteligência Artificial aplicada com Python)
+- 📊 **Data Analysis with SAS** (Análise de Dados com SAS)
+- 🛠️ **DevOps tools like Docker** (Ferramentas de DevOps como Docker)
 
 ---
 
