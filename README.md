@@ -1,4 +1,4 @@
-# Hi there 👋  
+# Hey you ! 👋  
 I'm **Felipe Medeiros**, a passionate **Full-Stack Developer** from Brazil 🇧🇷
 
 I enjoy building functional, scalable applications from back to front — and yes, I speak **Portuguese** and **English** 🌍
