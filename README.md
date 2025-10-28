@@ -17,7 +17,6 @@ I enjoy building functional, scalable applications from back to front — and ye
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -37,16 +36,7 @@ I enjoy building functional, scalable applications from back to front — and ye
 - Full-stack applications for personal learning and growth
 - Real-world simulations using Java, React, Spring, and MySQL
 
----
-
-### 📚 I'm learning
-
-- 🧠 **Data Science & AI fundamentals** (Fundamentos de Ciência de Dados e Inteligência Artificial)
-- 🤖 **Artificial Intelligence applied to Python** (Inteligência Artificial aplicada com Python)
-- 📊 **Data Analysis with SAS** (Análise de Dados com SAS)
-- 🛠️ **DevOps tools like Docker** (Ferramentas de DevOps como Docker)
-
----
+  ========
 
 ### 🌐 Languages
 
