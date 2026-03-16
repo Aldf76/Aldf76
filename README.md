@@ -1,6 +1,6 @@
 # Full-Stack Developer
 
-Full-Stack Developer with hands-on experience in building scalable and reliable backend systems, focusing on **API integrations, business rule consolidation, and cloud-based architectures**.
+Full-Stack Developer focusing my career on backend development and system architecture with hands-on experience in building scalable and reliable backend systems, focusing on **API integrations, business rule consolidation, and cloud-based architectures**.
 
 Strong experience with **TypeScript ecosystems** and modern backend frameworks, applying clean architecture principles and observability practices in production environments.
 
